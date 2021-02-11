@@ -1,0 +1,22 @@
+Script started on Tue Feb  9 18:50:36 2021
+bash: /Users/brighton1101/Documents/AWSLambdaTutorial/node_modules/tabtab/.completions/slss.bashexport: No such file or directory
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash: parse_git_branch: command not found
+[?1034h🌴🌴🌴 chapter-2[32m[00m $ ghci
+GHCi, version 8.10.3: https://www.haskell.org/ghc/  :? for help
+[?1h=Prelude> 2+2
+[?1l>4
+[?1h=Prelude> 7 < 9
+[?1l>True
+[?1h=Prelude> 10 &[K^ 2
+[?1l>100
+[?1h=Prelude> :quit
+[?1l>Leaving GHCi.
+bash: parse_git_branch: command not found
+🌴🌴🌴 chapter-2[32m[00m $ exit
+exit
+
+Script done on Tue Feb  9 18:51:15 2021
